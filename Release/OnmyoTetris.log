@@ -1,0 +1,20 @@
+﻿  Button.cpp
+  Cell.cpp
+d:\projects\onmyotetris\onmyotetris\cell.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\onmyotetris\onmyotetris\cell.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Config.cpp
+  gameFrame.cpp
+d:\projects\onmyotetris\onmyotetris\tetromino.hpp(26): warning C4091: 'typedef ': ignored on left of 'Tetromino::Point' when no variable is declared
+d:\projects\onmyotetris\onmyotetris\gameframe.cpp(6): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+d:\projects\onmyotetris\onmyotetris\gameframe.cpp(585): warning C4305: 'argument': truncation from 'double' to 'float'
+  Tetris.cpp
+d:\projects\onmyotetris\onmyotetris\tetromino.hpp(26): warning C4091: 'typedef ': ignored on left of 'Tetromino::Point' when no variable is declared
+  Tetromino.cpp
+d:\projects\onmyotetris\onmyotetris\tetromino.hpp(26): warning C4091: 'typedef ': ignored on left of 'Tetromino::Point' when no variable is declared
+  Generating code
+d:\projects\onmyotetris\onmyotetris\tetromino.cpp(138): warning C4715: 'Tetromino::isSelfCell': not all control paths return a value
+d:\projects\onmyotetris\onmyotetris\gameframe.cpp(302): warning C4715: 'GameFrame::ranTetromino': not all control paths return a value
+d:\projects\onmyotetris\onmyotetris\config.cpp(20): warning C4715: 'mkDir': not all control paths return a value
+  All 315 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OnmyoTetris.vcxproj -> D:\Projects\OnmyoTetris\Release\OnmyoTetris.exe
