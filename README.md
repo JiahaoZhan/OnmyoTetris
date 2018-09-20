@@ -1,7 +1,7 @@
 # OnmyoTetris
 A Japanese style tetris game
 
-This is only a simple demo of the game to demonstrate my abilities.
+__This is only a simple demo of the game to demonstrate my abilities.__
 
 1. Feeling comfortable using interface and learning new framework or libraries.
 2. Module design techniques. (OOP)
