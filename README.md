@@ -16,3 +16,7 @@ Click Exit for exiting the game.
 The scroll on the right side was intentionally designed to display the level of the game and the circle on the bottom-left is the scoreboard (not implemented yet and I think SFML is terrile at displaying plain text). 
 
 The Tetromino on the top-left is the next tetromino the player is going to see.
+
+Thanks for your review of my project!
+
+Jiahao Zhan
