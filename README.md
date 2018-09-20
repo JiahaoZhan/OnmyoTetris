@@ -18,9 +18,9 @@ The scroll on the right side was intentionally designed to display the level of 
 
 The Tetromino on the top-left is the next tetromino the player is going to see.
 
-__If you want to play this game for a minute. You can download the release folder as a whole because the dependent dynamic libraries are in the folder and execute the .exe file in it.
+__If you want to play this game for a minute. You can download the release folder as a whole because the dependent dynamic libraries are in the folder and execute the .exe file in it.__
 
-__If you want to check the source code of the game just open the OnmyoTetris folder and you will see all of the header files and source files in it.
+__If you want to check the source code of the game just open the OnmyoTetris folder and you will see all of the header files and source files in it.__
 
 Thanks for your review of my project!
 
